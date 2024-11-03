@@ -17,5 +17,5 @@ message TodoItem {
 
 
 message TodoItems {
-    repeated TodoItem = 1;
+    repeated TodoItem items = 1;
 }
